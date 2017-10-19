@@ -4,13 +4,18 @@ Coding assignment for Viagogo written in C#
 # Build Instructions
 1. Clone or download the repository. 
 2. Open the Viagogo.sln file in Visual Studio and run.
+
 If there are issues running the program, a compiled exe can be found in the bin folder
 
 # Assumptions
 There can be only one event at each coordinate
+
 A coordinate may have no events as there are a random amount of events genereated between 0 and 400
+
 Ticket prices can be at least $10
+
 The range between minimum price and maximum price is no more than $30
+
 There can be between 0 and 300 tickets for each event
 
 # How might you change your program if you needed to support multiple events at the same location?
