@@ -1,0 +1,5 @@
+C:\Users\lxn\Documents\SharpDevelop Projects\Viagogo\Viagogo\obj\Debug\Viagogo.csprojResolveAssemblyReference.cache
+C:\Users\lxn\Documents\SharpDevelop Projects\Viagogo\Viagogo\bin\Debug\Viagogo.exe
+C:\Users\lxn\Documents\SharpDevelop Projects\Viagogo\Viagogo\bin\Debug\Viagogo.pdb
+C:\Users\lxn\Documents\SharpDevelop Projects\Viagogo\Viagogo\obj\Debug\Viagogo.exe
+C:\Users\lxn\Documents\SharpDevelop Projects\Viagogo\Viagogo\obj\Debug\Viagogo.pdb
